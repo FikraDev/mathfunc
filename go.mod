@@ -1,3 +1,3 @@
-module github.com/FikraDev/mathfunc/allroots
+module github.com/FikraDev/mathfunc
 
 go 1.20
