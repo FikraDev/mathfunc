@@ -4,12 +4,12 @@ import (
 	"fmt"
 )
 
-func sqroot(num int64) {
+func Sqroot(num int64) {
 	sqrt := num * num
 	fmt.Println(sqrt)
 }
 
-func cuberoot(num int64) {
+func Cuberoot(num int64) {
 	cubert := (num * num) * num
 	fmt.Println(cubert)
 }
